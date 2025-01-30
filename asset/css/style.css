@@ -12,7 +12,7 @@ body{
 }
 header{
     height: 70px;
-    padding: 0px 20px;
+    padding: 0px 15px;
     background: #121212;
     display: flex;
     align-items: center;
@@ -143,7 +143,7 @@ main{
     font-size: 1.9rem;
 }
 #user-information-container{
-    max-width: 500px;
+    max-width: 600px;
     width: 100%;
     height: 100px;
     min-height: fit-content;
@@ -153,4 +153,14 @@ main{
 }
 .user-info div p{
     padding: 5px 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.user-info p span{
+    font-weight: normal;
+}
+
+.QuickCSS-blog{
+    background-color: white;
+    color: black;
 }
