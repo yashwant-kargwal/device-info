@@ -155,6 +155,8 @@ main{
     padding: 5px 10px;
     font-weight: bold;
     font-size: 18px;
+    user-select: none;
+    cursor: text;
 }
 .user-info p span{
     font-weight: normal;
