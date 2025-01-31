@@ -2,6 +2,8 @@
 
 A simple web tool to instantly retrieve details about your device, browser, screen resolution, and more. Perfect for developers to test responsiveness or anyone curious about their device's info.
 
+#### Live Demo :- https://device-info-yk.vercel.app/
+
 ## Features
 
 - **Browser Name & Platform:** Get details about your browser and operating system.
@@ -30,4 +32,4 @@ For any questions or feedback, you can reach me on [GitHub](https://github.com/y
 
 ---
 
-Happy Coding! 🚀
+No Need To Code More! 🚀
